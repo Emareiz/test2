@@ -1,0 +1,25 @@
+Inspiracje (słowa, skojarzenia, pomysły):
+- zdrowe rutyny
+- małe kroki
+- nawyki dnia codziennego
+- balans pracy i odpoczynku
+- picie wody, ruch, regeneracja
+- jasne cele i prosta motywacja
+
+Krótka lista elementów projektu:
+- system przypomnień
+- dzienne cele nawyków
+- statystyki postępów
+- krótkie wskazówki i podpowiedzi
+- profil użytkownika
+
+Wstępne dane wejściowe:
+- kategorie nawyków: woda, aktywność, odpoczynek
+- funkcje: ustawianie celów, powiadomienia, podsumowania tygodniowe, historia postępów
+- preferencje użytkownika: częstotliwość przypomnień, godziny aktywności
+
+Lista źródeł pomysłu:
+- własna potrzeba poprawy organizacji dnia
+- rozmowy ze znajomymi o trudnościach z regularnością
+- obserwacja popularności aplikacji habit-tracking
+- spontaniczny pomysł podczas planowania harmonogramu

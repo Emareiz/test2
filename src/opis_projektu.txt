@@ -1,0 +1,17 @@
+Projekt dotyczy aplikacji wspierającej zdrowe nawyki dnia codziennego.
+Pomaga rozwiązać problem braku regularności w piciu wody, ruchu i odpoczynku.
+Odbiorcami są osoby pracujące lub uczące się, które chcą poprawić samopoczucie.
+W aplikacji znajdą się:
+- przypomnienia,
+- proste cele dzienne,
+- statystyki postępów,
+- krótkie wskazówki.
+
+Проект касается приложения, которое помогает формировать полезные ежедневные привычки.
+Оно решает проблему отсутствия регулярности в употреблении воды, движении и отдыхе.
+Целевая аудитория — работающие и учащиеся, которые хотят улучшить самочувствие.
+В приложении будут:
+- напоминания,
+- простые дневные цели,
+- статистика прогресса
+- короткие советы.
